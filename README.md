@@ -20,7 +20,7 @@
 
 [![Website](https://img.shields.io/badge/Suplii.me-up-0f1820?style=flat-square&labelColor=00eda0)](https://suplii.me) – B2B marketplace for industrial services and supplies
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fclinck.io&up_color=orange&style=flat-square&label=Clinck.io)](https://linck.io) – Digital platform for hospitality service management and operations
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fclinck.io&up_color=orange&style=flat-square&label=Clinck.io)](https://clinck.io) – Digital platform for hospitality service management and operations
 
 [![Website](https://img.shields.io/badge/Sentimetrik.co-up-0f1820?style=flat-square&labelColor=E53935)](https://sentimetrik.co) – AI-powered Experience Management & feedback analytics platform  
 
