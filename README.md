@@ -30,16 +30,8 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 
-\<!--START\_SECTION:activity-->
-
-\<!--END\_SECTION:activity-->
-
-
-
-\<!--RECENT\_ACTIVITY:start-->
-
-\<!--RECENT\_ACTIVITY:last\_update-->
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## ⚙️ Engineering & Industrial Experience
 
