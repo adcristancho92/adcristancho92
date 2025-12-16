@@ -28,6 +28,19 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ---
 
+## :zap: Recent Activity
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
+
+
 ## ⚙️ Engineering & Industrial Experience
 
 ![Caterpillar](https://img.shields.io/badge/Caterpillar-Product%20Support-FFC107?style=flat-square&logo=caterpillar&logoColor=black)
