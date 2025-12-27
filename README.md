@@ -30,10 +30,10 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
-2. 💪 Opened PR [#1](undefined) in [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
-3. ⬆️ Pushed undefined commit(s) to [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
-4. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+1. ⬆️ Pushed undefined commit(s) to [adcristancho92/LinearRegression](https://github.com/adcristancho92/LinearRegression)<br>
+2. ⬆️ Pushed undefined commit(s) to [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
+3. 💪 Opened PR [#1](undefined) in [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
+4. ⬆️ Pushed undefined commit(s) to [adcristancho92/TercerRepoTest](https://github.com/adcristancho92/TercerRepoTest)<br>
 5. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
 <!--RECENT_ACTIVITY:end-->
 
