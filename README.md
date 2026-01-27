@@ -31,8 +31,6 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
-2. ⬆️ Pushed undefined commit(s) to [adcristancho92/LinearRegression](https://github.com/adcristancho92/LinearRegression)<br>
-3. ⬆️ Pushed undefined commit(s) to [adcristancho92/LinearRegression](https://github.com/adcristancho92/LinearRegression)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
