@@ -30,8 +30,6 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)<br>
-2. 🔱 Forked [adcristancho92/claude-code](https://github.com/adcristancho92/claude-code) from [platzi/claude-code](https://github.com/platzi/claude-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
