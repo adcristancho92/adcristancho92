@@ -30,7 +30,8 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)<br>
+1. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+2. ⭐ Starred [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
