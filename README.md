@@ -30,8 +30,9 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)<br>
-2. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+1. ⭐ Starred [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion)<br>
+2. ⭐ Starred [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)<br>
+3. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
