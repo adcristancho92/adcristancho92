@@ -24,7 +24,7 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fshelv.io&up_color=orange&style=flat-square&label=shelv.io)](https://shelv.io) – Where creators launch the future of LATAM. Join the largest community of tech creators in Latin America!
 
-[![Website](https://img.shields.io/badge/Sentimetrik.co-up-0f1820?style=flat-square&labelColor=E53935)](https://sentimetrik.co) – AI-powered Experience Management & feedback analytics platform  
+[![Website](https://img.shields.io/badge/facilia.app-up-0f1820?style=flat-square&labelColor=E53935)](https://facilia.app/) – AI-powered platform
 
 ---
 
