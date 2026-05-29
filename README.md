@@ -22,9 +22,9 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 [![Website](https://img.shields.io/badge/Suplii.me-up-00eda0?style=flat-square&labelColor=0f1820)](https://suplii.me) – B2B marketplace for industrial services and supplies
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fshelv.io&up_color=FF6B3D&style=flat-square&label=shelv.io)](https://shelv.io) – Where creators launch the future of LATAM. Join the largest community of tech creators in Latin America!
+[![Website](https://img.shields.io/badge/shelv.io-up-FF6B3D?style=flat-square&labelColor=0f1820)](https://shelv.io) – Where creators launch the future of LATAM. Join the largest community of tech creators in Latin America!
 
-[![Website](https://img.shields.io/badge/facilia.app-up-3ECF8E?style=flat-square&labelColor=0f1820)](https://facilia.app/) – SaaS vertical con AI para contratistas de construcción y empresas de mantenimiento en Colombia. Cotiza 10× más rápido, controla cada peso. Reemplaza Excel, Drive y WhatsApp en una sola app.
+[![Website](https://img.shields.io/badge/facilia.app-up-3ECF8E?style=flat-square&labelColor=0f1820)](https://facilia.app/) – AI-powered vertical SaaS for construction contractors and maintenance companies in Colombia. Quote 10× faster, control every cent. Replaces Excel, Drive, and WhatsApp in one single app.
 
 ---
 
