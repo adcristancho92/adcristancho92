@@ -30,9 +30,11 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion)<br>
-2. ⭐ Starred [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect)<br>
-3. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+1. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+2. ⭐ Starred [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
+3. ⬆️ Pushed undefined commit(s) to [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
+4. ⬆️ Pushed undefined commit(s) to [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
+5. ⬆️ Pushed undefined commit(s) to [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
