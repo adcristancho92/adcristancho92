@@ -30,11 +30,11 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-2. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
-3. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-4. ⭐ Starred [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
-5. ⬆️ Pushed undefined commit(s) to [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
+1. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+3. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+4. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
+5. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
