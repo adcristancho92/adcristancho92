@@ -33,8 +33,6 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 1. 🤝 Became collaborator on [javierpatin/facilia-consulting](https://github.com/javierpatin/facilia-consulting)<br>
 2. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
 3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-4. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-5. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
