@@ -30,11 +30,11 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/skills](https://github.com/openai/skills)<br>
-2. 🔱 Forked [adcristancho92/skills](https://github.com/adcristancho92/skills) from [openai/skills](https://github.com/openai/skills)<br>
-3. 🤝 Became collaborator on [javierpatin/facilia-consulting](https://github.com/javierpatin/facilia-consulting)<br>
-4. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-5. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+1. 🔱 Forked [adcristancho92/plugins](https://github.com/adcristancho92/plugins) from [openai/plugins](https://github.com/openai/plugins)<br>
+2. ⭐ Starred [openai/plugins](https://github.com/openai/plugins)<br>
+3. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+4. ⭐ Starred [mattpocock/mattpocock](https://github.com/mattpocock/mattpocock)<br>
+5. ⭐ Starred [openai/skills](https://github.com/openai/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
