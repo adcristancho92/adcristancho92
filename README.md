@@ -30,11 +30,11 @@ Let's connect: [![LinkedIn](https://img.shields.io/badge/Andrés%20Cristancho-Li
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [adcristancho92/plugins](https://github.com/adcristancho92/plugins) from [openai/plugins](https://github.com/openai/plugins)<br>
-2. ⭐ Starred [openai/plugins](https://github.com/openai/plugins)<br>
-3. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-4. ⭐ Starred [mattpocock/mattpocock](https://github.com/mattpocock/mattpocock)<br>
-5. ⭐ Starred [openai/skills](https://github.com/openai/skills)<br>
+1. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+2. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+3. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+4. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+5. 🔱 Forked [adcristancho92/plugins](https://github.com/adcristancho92/plugins) from [openai/plugins](https://github.com/openai/plugins)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
