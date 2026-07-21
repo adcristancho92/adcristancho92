@@ -32,10 +32,10 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [javierpatin/facilia-consulting](https://github.com/javierpatin/facilia-consulting)<br>
-2. ⭐ Starred [Shelv-io/.github](https://github.com/Shelv-io/.github)<br>
-3. ⬆️ Pushed undefined commit(s) to [Facilia-AI/.github](https://github.com/Facilia-AI/.github)<br>
-4. 💪 Opened PR [#1](undefined) in [Facilia-AI/.github](https://github.com/Facilia-AI/.github)<br>
+1. ⬆️ Pushed undefined commit(s) to [Facilia-AI/Facilia-AI](https://github.com/Facilia-AI/Facilia-AI)<br>
+2. ⬆️ Pushed undefined commit(s) to [Facilia-AI/.github](https://github.com/Facilia-AI/.github)<br>
+3. ⭐ Starred [javierpatin/facilia-consulting](https://github.com/javierpatin/facilia-consulting)<br>
+4. ⭐ Starred [Shelv-io/.github](https://github.com/Shelv-io/.github)<br>
 5. ⬆️ Pushed undefined commit(s) to [Facilia-AI/.github](https://github.com/Facilia-AI/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
