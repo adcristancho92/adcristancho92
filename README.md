@@ -26,8 +26,6 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 [![Website](https://img.shields.io/badge/shelv.io-up-FF6B3D?style=flat-square&labelColor=0f1820)](https://shelv.io) – Where creators launch the future of LATAM. Join the largest community of tech creators in Latin America!
 
-[![Website](https://img.shields.io/badge/Suplii.me-up-00eda0?style=flat-square&labelColor=0f1820)](https://suplii.me) – B2B e-commerce for industrial services and supplies
-
 ---
 
 ## :zap: Recent Activity
