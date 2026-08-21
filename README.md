@@ -30,11 +30,11 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
-2. 💪 Opened PR [#2](undefined) in [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
-3. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
-4. ⭐ Starred [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)<br>
-5. ⭐ Starred [google/earthengine-api](https://github.com/google/earthengine-api)<br>
+1. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+2. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
+3. 💪 Opened PR [#2](undefined) in [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
+4. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
+5. ⭐ Starred [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
