@@ -30,11 +30,11 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
-2. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
-3. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
-4. 💪 Opened PR [#2](undefined) in [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
-5. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
+1. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
+2. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
+3. ⬆️ Pushed undefined commit(s) to [adcristancho92/adcristancho92](https://github.com/adcristancho92/adcristancho92)<br>
+4. ⬆️ Pushed undefined commit(s) to [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
+5. 💪 Opened PR [#2](undefined) in [Facilia-AI/facilia-consulting](https://github.com/Facilia-AI/facilia-consulting)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
