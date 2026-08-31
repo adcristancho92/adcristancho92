@@ -30,11 +30,11 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
-2. ⭐ Starred [thinking-machines-lab/tinker](https://github.com/thinking-machines-lab/tinker)<br>
-3. ⭐ Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)<br>
-4. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-5. ⭐ Starred [expo/expo](https://github.com/expo/expo)<br>
+1. ⭐ Starred [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1)<br>
+2. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
+3. ⭐ Starred [thinking-machines-lab/tinker](https://github.com/thinking-machines-lab/tinker)<br>
+4. ⭐ Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)<br>
+5. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
