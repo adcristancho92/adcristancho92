@@ -30,11 +30,11 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-2. ⭐ Starred [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1)<br>
-3. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
-4. ⭐ Starred [thinking-machines-lab/tinker](https://github.com/thinking-machines-lab/tinker)<br>
-5. ⭐ Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)<br>
+1. ⭐ Starred [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)<br>
+2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+3. ⭐ Starred [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1)<br>
+4. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
+5. ⭐ Starred [thinking-machines-lab/tinker](https://github.com/thinking-machines-lab/tinker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
