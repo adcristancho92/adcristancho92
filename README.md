@@ -34,7 +34,6 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 2. ⭐ Starred [AnuarHarb/Quillami-code](https://github.com/AnuarHarb/Quillami-code)<br>
 3. ⭐ Starred [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)<br>
 4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-5. ⭐ Starred [jolpica/jolpica-f1](https://github.com/jolpica/jolpica-f1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
