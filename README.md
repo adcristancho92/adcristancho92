@@ -32,7 +32,6 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [supabase/postgres-meta](https://github.com/supabase/postgres-meta)<br>
 2. ⭐ Starred [AnuarHarb/quillami-code](https://github.com/AnuarHarb/quillami-code)<br>
-3. ⭐ Starred [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
