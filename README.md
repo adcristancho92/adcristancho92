@@ -31,7 +31,6 @@ Co-Founder and co-developer of digital products, hands-on across architecture, a
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Batuta-Lab/.github](https://github.com/Batuta-Lab/.github)<br>
-2. ⭐ Starred [br-g/openf1](https://github.com/br-g/openf1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 **Last Updated:** <!--RECENT_ACTIVITY:last_update--><!--RECENT_ACTIVITY:last_update_end-->
